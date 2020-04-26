@@ -1,0 +1,128 @@
+[
+	    {
+        "word": "coffee",
+        "phonetic": "/ˈkɒfi/",
+        "origin": "Late 16th century from Turkish kahveh, from Arabic qahwa, probably via Dutch koffie.",
+        "meaning": {
+            "noun": [
+                {
+                    "definition": "A hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub.",
+                    "example": "a cup of coffee",
+                    "synonyms": [
+                        "joe",
+                        "java"
+                    ]
+                },
+                {
+                    "definition": "The shrub which yields coffee seeds, native to the Old World tropics."
+                }
+            ]
+        }
+    },
+	
+	{
+        "word": "tea",
+        "phonetic": "/tiː/",
+        "origin": "Mid 17th century probably via Malay from Chinese (Min dialect) te; related to Mandarin chá. Compare with char.",
+        "meaning": {
+            "noun": [
+                {
+                    "definition": "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water.",
+                    "example": "Katherine sipped her tea"
+                },
+                {},
+                {
+                    "definition": "A light afternoon meal consisting typically of tea to drink, sandwiches, and cakes.",
+                    "example": "they were about to take afternoon tea",
+                    "synonyms": [
+                        "meal",
+                        "lunch",
+                        "dinner",
+                        "supper",
+                        "repast"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "Drink tea or take afternoon tea.",
+                    "example": "I teaed with Professor Herron"
+                }
+            ]
+        }
+    },
+	
+	{
+        "word": "computer",
+        "phonetic": "/kəmˈpjuːtə/",
+        "meaning": {
+            "noun": [
+                {
+                    "definition": "An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program."
+                }
+            ]
+        }
+    }, 
+	
+    {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "origin": "Old English bōc (originally also ‘a document or charter’), bōcian ‘to grant by charter’, of Germanic origin; related to Dutch boek and German Buch, and probably to beech (on which runes were carved).",
+        "meaning": {
+            "noun": [
+                {
+                    "definition": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+                    "example": "a book of selected poems",
+                    "synonyms": [
+                        "volume",
+                        "tome",
+                        "work",
+                        "printed work",
+                        "publication",
+                        "title",
+                        "opus",
+                        "treatise"
+                    ]
+                },
+                {
+                    "definition": "A bound set of blank sheets for writing in.",
+                    "example": "an accounts book",
+                    "synonyms": [
+                        "notepad",
+                        "notebook",
+                        "pad",
+                        "memo pad",
+                        "exercise book",
+                        "binder"
+                    ]
+                },
+                {
+                    "definition": "A set of tickets, stamps, matches, samples of cloth, etc., bound together.",
+                    "example": "a pattern book"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "Reserve (accommodation, a place, etc.); buy (a ticket) in advance.",
+                    "example": "I have booked a table at the Swan",
+                    "synonyms": [
+                        "reserve",
+                        "make a reservation for",
+                        "arrange in advance",
+                        "prearrange",
+                        "arrange for",
+                        "order"
+                    ]
+                },
+                {
+                    "definition": "Make an official note of the personal details of (a person who has broken a law or rule)",
+                    "example": "the cop booked me and took me down to the station"
+                },
+                {
+                    "definition": "Leave suddenly.",
+                    "example": "they just ate your pizza and drank your soda and booked"
+                }
+            ]
+        }
+    }
+]
