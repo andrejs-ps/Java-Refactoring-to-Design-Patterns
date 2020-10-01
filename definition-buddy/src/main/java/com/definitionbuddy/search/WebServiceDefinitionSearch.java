@@ -9,7 +9,7 @@ import static com.definitionbuddy.helpers.JsonHelper.extractDefinitions;
 
 public class WebServiceDefinitionSearch implements DefinitionSearch {
 
-    private static final String URI = "https://googledictionaryapi.eu-gb.mybluemix.net/?define=";
+    private static final String URI = "https://api.dictionaryapi.dev/api/v2/entries/%s/%s";
     private final HttpHelper httpHelper;
     private Language language;
 
@@ -33,7 +33,7 @@ public class WebServiceDefinitionSearch implements DefinitionSearch {
 
     @Override
     public List<String> getDefinition(String word) {
-        String responseBody = httpHelper.sendGet(URI + word + "&lang=" + language);
+        String responseBody = httpHelper.sendGet(String.format(URI, language, word));
         return extractDefinitions(responseBody);
     }
 }
